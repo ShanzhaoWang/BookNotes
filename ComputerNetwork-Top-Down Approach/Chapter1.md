@@ -89,3 +89,5 @@ e. The OSI(Open Systems Interconnection) model:
 有一张图。。。
 ## 6. Network Under Attack (Slides 47-51, Lec 56-61)
 ## 7. History of Computer Networking and the Internet (Slides 52-end, lec 62-end)
+
+`4-layer Model: https://www.youtube.com/watch?v=KEWe-5Bk3Q0`
